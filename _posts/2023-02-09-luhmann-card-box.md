@@ -58,8 +58,6 @@ categories: luhmann
 
 ![文献卡片盒](/assets/image/image_xCJFGSZiZg.png)
 
-![项目卡片盒和引用](/assets/image/image_DTjZjByZsL.png)
-
 # 做笔记时一般的流程
 
 阅读：
